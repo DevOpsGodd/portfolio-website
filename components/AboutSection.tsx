@@ -4,15 +4,21 @@ import Image from "next/image"
 const skills = [
   { skill: "HTML" },
   { skill: "CSS" },
-  { skill: "JavaScript" },
-  { skill: "TypeScript" },
+  { skill: "Jenkins" },
+  { skill: "AWS" },
   { skill: "Python" },
-  { skill: "React" },
-  { skill: "Next.js" },
-  { skill: "Tailwind CSS" },
+  { skill: "Terraform" },
+  { skill: "Github Actions" },
+  { skill: "Kubernetes" },
   { skill: "Git" },
   { skill: "GitHub" },
-  { skill: "Jupyter Notebooks" },
+  { skill: "Docker" },
+  { skill: "Linux" },
+  { skill: "Helm" }
+  { skill: "Azure" },
+  { skill: "Django" }
+  { skill: "Technical Writing" },
+  { skill: "Ansible" }
 ]
 
 const AboutSection = () => {
@@ -30,19 +36,14 @@ const AboutSection = () => {
               Get to know me!
             </h1>
             <p>
-              Hi, my name is Hosna and I am a{" "}
+              Hi, my name is Uthman and I am a{" "}
               <span className="font-bold">{"highly ambitious"}</span>,
               <span className="font-bold">{" self-motivated"}</span>, and
-              <span className="font-bold">{" driven"}</span> software engineer
-              based in Los Angeles, CA.
+              <span className="font-bold">{" driven"}</span> DevOpss engineer
+              based in Lagos, Nigeria.
             </p>
             <br />
-            <p>
-              I graduated from California State University, Northridge in 2019
-              with a BS in Computer Engineering and have been working in the
-              field ever since.
-            </p>
-            <br />
+
             <p>
               I have a wide range of hobbies and passions that keep me busy.
               From reading, playing sports, traveling, to making YouTube videos,

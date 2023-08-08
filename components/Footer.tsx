@@ -3,7 +3,7 @@ import {
   AiOutlineGithub,
   AiOutlineTwitter,
   AiOutlineLinkedin,
-  AiOutlineYoutube,
+  AiOutlineHashnode,
 } from "react-icons/ai"
 
 const Footer = () => {
@@ -22,7 +22,7 @@ const Footer = () => {
             />
           </a>
           <a
-            href="https://twitter.com/hqasmei"
+            href="https://twitter.com/hux_man"
             rel="noreferrer"
             target="_blank"
           >
@@ -33,7 +33,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://www.linkedin.com/in/hosnaqasmei/"
+            href="https://www.linkedin.com/in/devopsgod/"
             rel="noreferrer"
             target="_blank"
           >
@@ -43,11 +43,11 @@ const Footer = () => {
             />
           </a>
           <a
-            href="https://www.youtube.com/channel/UCQBMkSDgbxDb8usMeXmOZyA"
+            href="https://uthy.hashnode.dev/"
             rel="noreferrer"
             target="_blank"
           >
-            <AiOutlineYoutube
+            <AiOutlineHashnode
               className="hover:-translate-y-1 transition-transform cursor-pointer text-neutral-500 dark:text-neutral-100"
               size={30}
             />
